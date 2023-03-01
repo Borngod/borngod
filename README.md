@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bernard appiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard appiah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bernard-appiah-a0025a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard appiah" height="30" width="40" /></a>
 <a href="https://instagram.com/bernardappiah2180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bernardappiah2180" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dopermine green" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dopermine green" height="30" width="40" /></a>
 </p>
