@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard Appiah</h1>
-<h3 align="center">A passionate about Cyber security && Software engineer && Data science && problem solving.. Nice dude from Ghana</h3>
+<h3 align="center">I'm passionate about Cyber security && Software engineer && Data science && problem solving.. Nice dude from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
