@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borngod" alt="borngod" /></a> </p>
 
 - 🌱 I’m currently learning <font size ="20">``software engineering @ ALX`` ``Cybersecurity degree at Accra Technical University``</font>
 
