@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borngod" alt="borngod" /></a> </p>
 
-- 🌱 I’m currently learning ##``software engineering @ ALX`` ##``Cybersecurity degree at Accra Technical University``
+- 🌱 I’m currently learning <font size ="14">``software engineering @ ALX`` ``Cybersecurity degree at Accra Technical University``</font>
 
 - 📫 How to reach me **aboa.boni360@gmail.com**
 
