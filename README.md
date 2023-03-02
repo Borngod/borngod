@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bernard Appiah</h1>
-<h3 align="center">I'm passionate about Cyber security && Software engineer && Data science && problem solving.. Nice dude from Ghana</h3>
+<h3 align="center">I'm passionate about Cyber security, Software engineer, Data science, problem solving.. Nice dude from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
 
 
-- 🌱 I’m currently learning <font size ="20">**_``software engineering @ ALX`` **_``Cybersecurity degree at Accra Technical University``</font>
+- 🌱 I’m currently learning <font size ="20">**_``software engineering @ ALX`` **_``Pursuing a Cybersecurity degree at Accra Technical University``</font>
 
 - 📫 How to reach me **aboa.boni360@gmail.com**
 
