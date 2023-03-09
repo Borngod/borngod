@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard Appiah</h1>
-<h3 align="center">An ardent of  Cyber security, Software engineering, Data science, problem solving.. Nice dude from Ghana</h3>
+<h3 align="center">Hello! I am a software engineer with a passion for problem-solving, data analytics, and cyber security. With expertise in a range of programming languages and platforms, I am committed to finding innovative solutions to complex challenges. Let's connect and explore how we can work together to tackle the challenges of today's digital landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
 
