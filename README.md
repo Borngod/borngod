@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/file/d/1kLVZD_HTzfazXkarOYZaWCWF3QuxF9YG/view?usp=sharing](https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9bBRkd7ZwQJjox9iITZu064EueOO7VJZCBAgVpRMiH-iTV8rV4Xm1cpkDm4yVANzqKaxk560rOUYZWAqPybs8nXKtQg=s1600)">
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9bBRkd7ZwQJjox9iITZu064EueOO7VJZCBAgVpRMiH-iTV8rV4Xm1cpkDm4yVANzqKaxk560rOUYZWAqPybs8nXKtQg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9bBRkd7ZwQJjox9iITZu064EueOO7VJZCBAgVpRMiH-iTV8rV4Xm1cpkDm4yVANzqKaxk560rOUYZWAqPybs8nXKtQg=s1600" /> </a>
 <h3 align="center">I am Front End Developer with a passion for problem-solving and  cyber security. With expertise in a range of programming languages and platforms, I am committed to finding innovative solutions to complex challenges. Let's connect and explore how we can work together to tackle the challenges of today's digital landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
