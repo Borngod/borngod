@@ -1,12 +1,12 @@
 <a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9bBRkd7ZwQJjox9iITZu064EueOO7VJZCBAgVpRMiH-iTV8rV4Xm1cpkDm4yVANzqKaxk560rOUYZWAqPybs8nXKtQg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9bBRkd7ZwQJjox9iITZu064EueOO7VJZCBAgVpRMiH-iTV8rV4Xm1cpkDm4yVANzqKaxk560rOUYZWAqPybs8nXKtQg=s1600" /> </a>
 <p>
-  ```"Hello, I'm Bernard Appiah, a passionate professional with a focus on Cyber Security, Cloud Computing, and Front-End Development. I believe in continuously upskilling and staying ahead in the ever-evolving tech industry. With expertise in Cyber Security and Cloud Computing, I possess the knowledge and skills to protect digital assets and develop secure cloud-based solutions.
+  ``"Hello, I'm Bernard Appiah, a passionate professional with a focus on Cyber Security, Cloud Computing, and Front-End Development. I believe in continuously upskilling and staying ahead in the ever-evolving tech industry. With expertise in Cyber Security and Cloud Computing, I possess the knowledge and skills to protect digital assets and develop secure cloud-based solutions.
 
 Additionally, my proficiency in Front-End Development allows me to create visually appealing and user-friendly web applications. I strive for excellence in delivering responsive and optimized front-end experiences.
 
 I am dedicated to expanding my skill set and staying updated with the latest industry trends. Constantly seeking new challenges, I am committed to enhancing my abilities and taking on exciting projects.
 
-Let's connect and explore opportunities to collaborate on projects related to Cyber Security, Cloud Computing, or Front-End Development. I'm always open to learning from others and contributing to innovative solutions. Together, let's make a positive impact in the digital world."```
+Let's connect and explore opportunities to collaborate on projects related to Cyber Security, Cloud Computing, or Front-End Development. I'm always open to learning from others and contributing to innovative solutions. Together, let's make a positive impact in the digital world."``
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
