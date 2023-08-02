@@ -1,4 +1,4 @@
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9bBRkd7ZwQJjox9iITZu064EueOO7VJZCBAgVpRMiH-iTV8rV4Xm1cpkDm4yVANzqKaxk560rOUYZWAqPybs8nXKtQg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q9bBRkd7ZwQJjox9iITZu064EueOO7VJZCBAgVpRMiH-iTV8rV4Xm1cpkDm4yVANzqKaxk560rOUYZWAqPybs8nXKtQg=s1600" /> </a>
+<a href="https://www.linkedin.com/in/bernard-appiah-a0025a234/"> <img src="hello@reallygreatsite.com.png" /> </a>
 <p>
 Hello, I'm Bernard Appiah, a passionate professional with a focus on Cyber Security, Cloud Computing, and Front-End Development. I believe in continuously upskilling and staying ahead in the ever-evolving tech industry. With expertise in Cyber Security and Cloud Computing, I possess the knowledge and skills to protect digital assets and develop secure cloud-based solutions.
 
