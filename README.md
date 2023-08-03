@@ -1,7 +1,7 @@
 <h1>Click on the image below⬇️ to checkout my Social Space🤔</h1>
 <a href="https://www.linkedin.com/in/bernard-appiah-a0025a234/" target="_blank"> <img src="hello@reallygreatsite.com.png" /> </a>
 <p>
-<h1>Hello, there 👋😅  eloborated me is  here⬇️ </h1> I'm <b>Bernard Appiah</b>, a passionate professional with a focus on Cyber Security, Cloud Computing, and Front-End Development. I believe in continuously upskilling and staying ahead in the ever-evolving tech industry. With expertise in Cyber Security and Cloud Computing, I possess the knowledge and skills to protect digital assets and develop secure cloud-based solutions.
+<h1>Hello, there 👋😅  eloboratedMe.md is  here⬇️ </h1> I'm <b>Bernard Appiah</b>, a passionate professional with a focus on Cyber Security, Cloud Computing, and Front-End Development. I believe in continuously upskilling and staying ahead in the ever-evolving tech industry. With expertise in Cyber Security and Cloud Computing, I possess the knowledge and skills to protect digital assets and develop secure cloud-based solutions.
 
 Additionally, my proficiency in Front-End Development allows me to create visually appealing and user-friendly web applications. I strive for excellence in delivering responsive and optimized front-end experiences.
 
