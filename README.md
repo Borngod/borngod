@@ -11,7 +11,7 @@ Let's connect and explore opportunities to collaborate on projects related to Cy
 </p>
 <h1>Click the image to out my Github Pro  account here ⏬</h1>
 <p align="center">
-<a href="https://github.com/borngod360"><img src="pngegg.png" width="450" height="360"></a>
+<a href="https://github.com/borngod360"><img src="pngegg.png" width="400" height="360"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
