@@ -9,9 +9,11 @@ I am dedicated to expanding my skill set and staying updated with the latest ind
 
 Let's connect and explore opportunities to collaborate on projects related to Cyber Security, Cloud Computing, or Front-End Development. I'm always open to learning from others and contributing to innovative solutions. Together, let's make a positive impact in the digital world
 </p>
-<h3>check out my Github Pro  account here ⏬</h3>
-<a href="https://github.com/borngod360"><img src="githubPro.gif"></a>
-
+<h1 align="center">Check out my Github Pro  account here ⏬</h1>
+-------------------------------------------------------------------------
+<p align="center">
+<a href="https://github.com/borngod360"><img src="githubPro.gif" width='800' height='600'></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
 
