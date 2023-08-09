@@ -9,7 +9,7 @@ I am dedicated to expanding my skill set and staying updated with the latest ind
 
 Let's connect and explore opportunities to collaborate on projects related to Cyber Security, Cloud Computing, or Front-End Development. I'm always open to learning from others and contributing to innovative solutions. Together, let's make a positive impact in the digital world
 </p>
-<h1>Click the image to out my Github Pro  account here ⏬</h1>
+<h1>Click the image to checkout my Github Pro  account here ⏬</h1>
 <p align="center">
 <a href="https://github.com/borngod360"><img src="pngegg.png" width="400" height="360"></a>
 </p>
