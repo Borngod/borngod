@@ -15,7 +15,7 @@ I am keen on expanding my skill set and enhancing my abilities, always open to s
 
 - 📫 How to reach me **<a href="mailto:appiahbernard42@gmail.com">appiahbernard42@gmail.com</a>**
 
-Here's a refined and cohesive presentation for your README, including all the projects and their details:
+
 
 ---
 
@@ -28,6 +28,7 @@ I built a digital platform for Lam Naturals, an agro company, with e-commerce fu
 **Skills:** React.js, TypeScript, Express.js, Node.js, Tailwind CSS, Airtable, Automation 
 
 
+![recording-2024-06-15-16-47-31 (1)](https://github.com/Borngod/borngod/assets/117746948/8ba7b439-4ea3-4a33-97b9-33f2facbe3b8)
 
  
 
@@ -35,22 +36,18 @@ I built a digital platform for Lam Naturals, an agro company, with e-commerce fu
 
 ### 8th Wonder
 **May 2024 - May 2024**  
-8thWonder.xyz is the official website for 8thWonder, designed to capture and manage interest for upcoming projects and services. It serves as a hub for showcasing our innovative solutions and engaging with our community. The platform includes features to keep users informed and excited about what's next, including detailed project descriptions and interactive elements.  
+<a href="https://8thwonder.xyz">8thWonder.xyz </a>is the official website for 8thWonder, designed to capture and manage interest for upcoming projects and services. It serves as a hub for showcasing our innovative solutions and engaging with our community. The platform includes features to keep users informed and excited about what's next, including detailed project descriptions and interactive elements.  
 **Role:** Developed the website, added waitlist functionality, and integrated a payment service for funding.  
 **Skills:** HTML5, Bootstrap (Framework), Payment Systems, JavaScript  
 
----
+<a href="https://8thwonder.xyz">"<img src="https://github.com/Borngod/borngod/assets/117746948/2365395e-49d6-45e3-b74e-cea4dca44f23"></img></a>
 
-### Frontend Capstone Project: Poki Viewer
-**May 2024 - May 2024**  
-Built the frontend development capstone project for a Poki diary that includes a theme switcher, Poki stats, Poki color picker, and similar Pokis view.  
-**Skills:** styled-components, Material-UI, Tailwind CSS, Ant Design, REST APIs, SASS, SCSS, TypeScript  
 
 ---
 
 ### JobsByUs
 **Jan 2024 - Apr 2024**  
-**Description:** JobsByUs is an intuitive job portal that connects job seekers with diverse opportunities and enables employers to showcase their openings efficiently.  
+**Description:**  <a href="https://jobsbyus.com/">JobsByUs</a> is an intuitive job portal that connects job seekers with diverse opportunities and enables employers to showcase their openings efficiently.  
 **Role:**  
 - Implemented the front-end UI
 - Linked a blog posting flow from WordPress to the web app using the WordPress REST API
@@ -59,8 +56,23 @@ Built the frontend development capstone project for a Poki diary that includes a
 - Added image and text compression tools for fast loads
 - Worked on the PWA version for desktop and mobile
 - Worked on SEO optimization for higher ranks on various search engines  
-**Technologies:** React, Styled Components, Tailwind CSS, AOS (animation library), Express.js, MongoDB, DigitalOcean VPS hosting, Nginx, TinyPNG, WebP, Service Workers, Web App Manifest, Google Lighthouse, meta tags, schema markup  
-**Skills:** React.js, Tailwind CSS, Search Engine Optimization (SEO), WordPress, REST APIs, Progressive Web Applications (PWAs), Site Maps  
+**Technologies:**
+   React, Styled Components, Tailwind CSS, AOS (animation library), Express.js, MongoDB, DigitalOcean VPS hosting, Nginx, TinyPNG, WebP, Service Workers, Web App Manifest, Google Lighthouse, meta tags, schema markup  
+**Skills:**
+ React.js, Tailwind CSS, Search Engine Optimization (SEO), WordPress, REST APIs, Progressive Web Applications (PWAs), Site Maps  
+
+![Screenshot 2024-06-15 161728](https://github.com/Borngod/borngod/assets/117746948/074ef216-f34d-4172-b80d-388bb49d34b4)
+
+
+---
+
+### Frontend Capstone Project: Poki Viewer
+**May 2024 - May 2024**  
+Built the frontend developmentcapstone project for a  <a href="https://enyata-9e2b.vercel.app/">Poki diary</a> that includes a theme switcher, Poki stats, Poki color picker, and similar Pokis view.  
+**Skills:** styled-components, Material-UI, Tailwind CSS, Ant Design, REST APIs, SASS, SCSS, TypeScript  
+
+![Screenshot 2024-06-15 175956](https://github.com/Borngod/borngod/assets/117746948/526cc956-ae50-41df-8a98-e2b53c8a3835)
+
 
 ---
 
@@ -69,14 +81,16 @@ Built the frontend development capstone project for a Poki diary that includes a
 I developed an Excel-based library attendance system using VBA (Visual Basic for Applications). In this system, students visiting the library can input their details to check in, and all the information is recorded in an Excel spreadsheet. When students check out, they simply enter their index number, and the time of checkout is recorded. The librarian can conclude the attendance by entering a command to end the session. This action generates a new sheet and renames the previous sheet with the date when the session ended. I implemented various validations to ensure accurate user input.  
 **Skills:** Microsoft Excel, VBA Excel, Microsoft Excel Macros  
 
+![Screenshot 2024-06-15 163247](https://github.com/Borngod/borngod/assets/117746948/d97fa3d5-28c6-4405-93fb-d8a81a2027b5)
+
 ---
 
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bernard-appiah-a0025a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard appiah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bernard-appiah360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard appiah" height="30" width="40" /></a>
 <a href="https://instagram.com/bernardappiah2180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bernardappiah2180" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dopermine green" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dopermine green" height="30" width="40" /></a>
+
 </p>
 
 ---------
