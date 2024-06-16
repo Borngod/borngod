@@ -1,25 +1,75 @@
 <h1>Click on the image below⬇️ to checkout my Social Space🤔</h1>
-<a href="https://www.linkedin.com/in/bernard-appiah-a0025a234/" target="_blank"> <img src="hello@reallygreatsite.com.png" /> </a>
+<a href="https://www.linkedin.com/in/bernard-appiah-a0025a234/" target="_blank"><img src="https://github.com/Borngod/borngod/assets/117746948/1706d411-cdaa-45ae-afe7-03fbf6cf2d06"></img> </a>
 <p>
-<h1>Hello, there 👋😅  eloboratedMe.md is  here⬇️ </h1> I'm <b>Bernard Appiah</b>, a passionate professional with a focus on Cyber Security, Cloud Computing, and Front-End Development. I believe in continuously upskilling and staying ahead in the ever-evolving tech industry. With expertise in Cyber Security and Cloud Computing, I possess the knowledge and skills to protect digital assets and develop secure cloud-based solutions.
+<h1>Hello, there 👋😅  eloboratedMe.md is  here⬇️ </h1>
 
-Additionally, my proficiency in Front-End Development allows me to create visually appealing and user-friendly web applications. I strive for excellence in delivering responsive and optimized front-end experiences.
+Hello, I'm **Bernard Appiah**, an Agile Developer with over 3 years of experience in the web development industry. I specialize in creating responsive front-end applications using modern frameworks such as React, Vue, and Next.js. I excel at crafting visually appealing UIs with Tailwind CSS and SCSS while ensuring cross-browser compatibility and performance optimization.
 
-I am dedicated to expanding my skill set and staying updated with the latest industry trends. Constantly seeking new challenges, I am committed to enhancing my abilities and taking on exciting projects.
+I believe that mission of anyone who possesses the power to code is to provide solutions to problems in and around their community. A significant achievement of mine is developing JobsByUs, a sophisticated job portal that connects job seekers with a wide range of opportunities, enhancing user engagement and streamlining employer job postings. I leverage my expertise in agile methodologies to foster effective collaboration within cross-functional teams and deliver high-quality, efficient web applications that elevate user experience and align with business goals.
 
-Let's connect and explore opportunities to collaborate on projects related to Cyber Security, Cloud Computing, or Front-End Development. I'm always open to learning from others and contributing to innovative solutions. Together, let's make a positive impact in the digital world
-</p>
-<h1>Click the image to checkout my Github Pro  account here ⏬</h1>
-<p align="center">
-<a href="https://github.com/borngod360"><img src="pngegg.png" width="400" height="360"></a>
+I am keen on expanding my skill set and enhancing my abilities, always open to seeking new challenges and taking on exciting projects. Let's connect, explore, and collaborate on exciting projects related to my domain. Together, let's make a positive impact in the digital world with our coding wands.
+
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=borngod&label=Profile%20views&color=0e75b6&style=flat" alt="borngod" /> </p>
+- 🌱 I’m currently learning <font size ="20">**_``backkend dvelopment in other to full stack (MERN)`` **_``Pursuing a Cybersecurity degree at Accra Technical University``</font>
+
+- 📫 How to reach me **<a href="mailto:appiahbernard42@gmail.com">appiahbernard42@gmail.com</a>**
+
+Here's a refined and cohesive presentation for your README, including all the projects and their details:
+
+---
+
+## Projects
+
+### Lam Naturals
+**Jun 2024 - Present**  
+I built a digital platform for Lam Naturals, an agro company, with e-commerce functionality, allowing users to order and purchase Lam Naturals agro products directly from the platform. Additionally, I incorporated dashboards for insights on orders and funds, along with an admin section where items can be added without accessing the database.  
+**Tools:** React, TypeScript, REST API, React useContext and useReducer, Airtable, Tailwind CSS, Paystack for payment processing  
+**Skills:** React.js, TypeScript, Express.js, Node.js, Tailwind CSS, Airtable, Automation 
 
 
-- 🌱 I’m currently learning <font size ="20">**_``software engineering & Cloud Computing @ ALX`` **_``Pursuing a Cybersecurity degree at Accra Technical University``</font>
 
-- 📫 How to reach me **aboa.boni360@gmail.com**
+ 
+
+---
+
+### 8th Wonder
+**May 2024 - May 2024**  
+8thWonder.xyz is the official website for 8thWonder, designed to capture and manage interest for upcoming projects and services. It serves as a hub for showcasing our innovative solutions and engaging with our community. The platform includes features to keep users informed and excited about what's next, including detailed project descriptions and interactive elements.  
+**Role:** Developed the website, added waitlist functionality, and integrated a payment service for funding.  
+**Skills:** HTML5, Bootstrap (Framework), Payment Systems, JavaScript  
+
+---
+
+### Frontend Capstone Project: Poki Viewer
+**May 2024 - May 2024**  
+Built the frontend development capstone project for a Poki diary that includes a theme switcher, Poki stats, Poki color picker, and similar Pokis view.  
+**Skills:** styled-components, Material-UI, Tailwind CSS, Ant Design, REST APIs, SASS, SCSS, TypeScript  
+
+---
+
+### JobsByUs
+**Jan 2024 - Apr 2024**  
+**Description:** JobsByUs is an intuitive job portal that connects job seekers with diverse opportunities and enables employers to showcase their openings efficiently.  
+**Role:**  
+- Implemented the front-end UI
+- Linked a blog posting flow from WordPress to the web app using the WordPress REST API
+- Consumed REST APIs for various services on the app
+- Deployed and helped set up the server on a VPS hosting on DigitalOcean
+- Added image and text compression tools for fast loads
+- Worked on the PWA version for desktop and mobile
+- Worked on SEO optimization for higher ranks on various search engines  
+**Technologies:** React, Styled Components, Tailwind CSS, AOS (animation library), Express.js, MongoDB, DigitalOcean VPS hosting, Nginx, TinyPNG, WebP, Service Workers, Web App Manifest, Google Lighthouse, meta tags, schema markup  
+**Skills:** React.js, Tailwind CSS, Search Engine Optimization (SEO), WordPress, REST APIs, Progressive Web Applications (PWAs), Site Maps  
+
+---
+
+### Excel Library Attendance System
+**Jan 2022 - Jan 2022**  
+I developed an Excel-based library attendance system using VBA (Visual Basic for Applications). In this system, students visiting the library can input their details to check in, and all the information is recorded in an Excel spreadsheet. When students check out, they simply enter their index number, and the time of checkout is recorded. The librarian can conclude the attendance by entering a command to end the session. This action generates a new sheet and renames the previous sheet with the date when the session ended. I implemented various validations to ensure accurate user input.  
+**Skills:** Microsoft Excel, VBA Excel, Microsoft Excel Macros  
+
+---
 
 ---------
 <h3 align="left">Connect with me:</h3>
@@ -31,9 +81,7 @@ Let's connect and explore opportunities to collaborate on projects related to Cy
 
 ---------
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-----------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borngod&show_icons=true&locale=en&layout=compact" alt="borngod" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=borngod&show_icons=true&locale=en&layout=compact" alt="borngod" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borngod&show_icons=true&locale=en" alt="borngod" /></p>
