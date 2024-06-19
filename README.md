@@ -11,7 +11,7 @@ I am keen on expanding my skill set and enhancing my abilities, always open to s
 
 </p>
 
-- 🌱 I’m currently learning <font size ="20">**_``backkend dvelopment in other to full stack (MERN)`` **_``Pursuing a Cybersecurity degree at Accra Technical University``</font>
+- 🌱 I’m currently learning <font size ="20">**_``backend dvelopment in other to full stack (MERN)`` **_``Pursuing a Cybersecurity degree at Accra Technical University``</font>
 
 - 📫 How to reach me **<a href="mailto:appiahbernard42@gmail.com">appiahbernard42@gmail.com</a>**
 
