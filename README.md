@@ -16,6 +16,7 @@ I am keen on expanding my skill set and enhancing my abilities, always open to s
 - 📫 How to reach me **<a href="mailto:appiahbernard42@gmail.com">appiahbernard42@gmail.com</a>**
 
 
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/af59e876-0b76-47e7-bdee-cdd493b055c2)
 
 ---
 
