@@ -3,11 +3,13 @@
 <p>
 <h1>Hello, there 👋😅  eloboratedMe.md is  here⬇️ </h1>
 
-Hello, I'm **Bernard Appiah**, an Agile Developer with over 3 years of experience in the web development industry. I specialize in creating responsive front-end applications using modern frameworks such as React, Vue, and Next.js. I excel at crafting visually appealing UIs with Tailwind CSS and SCSS while ensuring cross-browser compatibility and performance optimization.
+Hello, I'm **Bernard Appiah**, a FullStack Engineer....this is where i go technical but ner 😅 findout more here - [My Resume](https://drive.google.com/file/d/1t2x0sBKEZ2qjz9ezNfSw58ozntqOpeol/view)
 
 I believe that mission of anyone who possesses the power to code is to provide solutions to problems in and around their community. A significant achievement of mine is developing JobsByUs, a sophisticated job portal that connects job seekers with a wide range of opportunities, enhancing user engagement and streamlining employer job postings. I leverage my expertise in agile methodologies to foster effective collaboration within cross-functional teams and deliver high-quality, efficient web applications that elevate user experience and align with business goals.
 
 I am keen on expanding my skill set and enhancing my abilities, always open to seeking new challenges and taking on exciting projects. Let's connect, explore, and collaborate on exciting projects related to my domain. Together, let's make a positive impact in the digital world with our coding wands.
+
+stay tuned i have some open source projects coming up -- will need tons of hands on deck
 
 </p>
 
