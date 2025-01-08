@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bernard Appiah
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ...check the left pane..😅
 ======================================================================================================================================
 <a href="https://www.linkedin.com/in/bernard-appiah360/" target="_blank"><img src="https://github.com/Borngod/borngod/assets/117746948/1706d411-cdaa-45ae-afe7-03fbf6cf2d06"></img> </a>
 
