@@ -33,41 +33,10 @@ I've been coding for who knows how long! :) I'm self-taught and have always been
 
 ## Projects
 
-### Lam Naturals
-**Jun 2024 - Present**  
-I built a digital platform for Lam Naturals, an agro company, with e-commerce functionality, allowing users to order and purchase Lam Naturals agro products directly from the platform. Additionally, I incorporated dashboards for insights on orders and funds, along with an admin section where items can be added without accessing the database.  
-**Tools:** React, TypeScript, REST API, React useContext and useReducer, Airtable, Tailwind CSS, Paystack for payment processing  
-**Skills:** React.js, TypeScript, Express.js, Node.js, Tailwind CSS, Airtable, Automation 
-
-
-![recording-2024-06-15-16-47-31 (1)](https://github.com/Borngod/borngod/assets/117746948/8ba7b439-4ea3-4a33-97b9-33f2facbe3b8)
-
- 
-
----
-
-### 8th Wonder
-**May 2024 - May 2024**  
-<a href="https://8thwonder.xyz">8thWonder.xyz </a>is the official website for 8thWonder, designed to capture and manage interest for upcoming projects and services. It serves as a hub for showcasing our innovative solutions and engaging with our community. The platform includes features to keep users informed and excited about what's next, including detailed project descriptions and interactive elements.  
-**Role:** Developed the website, added waitlist functionality, and integrated a payment service for funding.  
-**Skills:** HTML5, Bootstrap (Framework), Payment Systems, JavaScript  
-
-<a href="https://8thwonder.xyz">"<img src="https://github.com/Borngod/borngod/assets/117746948/2365395e-49d6-45e3-b74e-cea4dca44f23"></img></a>
-
-
----
-
 ### JobsByUs
 **Jan 2024 - Apr 2024**  
 **Description:**  <a href="https://jobsbyus.com/">JobsByUs</a> is an intuitive job portal that connects job seekers with diverse opportunities and enables employers to showcase their openings efficiently.  
-**Role:**  
-- Implemented the front-end UI
-- Linked a blog posting flow from WordPress to the web app using the WordPress REST API
-- Consumed REST APIs for various services on the app
-- Deployed and helped set up the server on a VPS hosting on DigitalOcean
-- Added image and text compression tools for fast loads
-- Worked on the PWA version for desktop and mobile
-- Worked on SEO optimization for higher ranks on various search engines  
+ 
 **Technologies:**
    React, Styled Components, Tailwind CSS, AOS (animation library), Express.js, MongoDB, DigitalOcean VPS hosting, Nginx, TinyPNG, WebP, Service Workers, Web App Manifest, Google Lighthouse, meta tags, schema markup  
 **Skills:**
@@ -75,6 +44,37 @@ I built a digital platform for Lam Naturals, an agro company, with e-commerce fu
 
 ![Screenshot 2024-06-15 161728](https://github.com/Borngod/borngod/assets/117746948/074ef216-f34d-4172-b80d-388bb49d34b4)
 
+ 
+
+---
+
+### 8th Wonder
+**May 2024 - May 2024**  
+<a href="https://8thwonder.xyz">8thWonder.xyz </a>.
+Built 8thwonder  the hot chick baby face in the trading  space with a few dev team members. Additionally, created a dashboard for their bootcamps, which included an admin interface for scoring.
+
+**Technologies:** Nextjs, Nodejs, Expressjs, Mongodb ,Aws, Docker, Caprover
+
+<a href="https://8thwonder.xyz">![Screenshot 2025-01-08 110023](https://github.com/user-attachments/assets/41e75467-eb5d-4dd7-ad87-4260cce4be4e)</a>
+
+
+
+---
+
+
+
+
+
+## Project i worked on  but are stil in the dev environ 😶
+### Lam Naturals
+**Jun 2024 - Present**  
+I built a digital platform for Lam Naturals, an agro company, with e-commerce functionality, allowing users to order and purchase Lam Naturals agro products directly from the platform. Additionally, I incorporated dashboards for insights on orders and funds, along with an admin section where items can be added without accessing the database.  
+**Tools:** React, TypeScript, REST API, React useContext and useReducer, Airtable, Tailwind CSS, Paystack for payment processing  
+**Skills:** React.js, TypeScript, Express.js, Node.js, Tailwind CSS, Airtable, Automation 
+
+
+
+![Screenshot 2025-01-08 142750](https://github.com/user-attachments/assets/e6d5e00e-7a6a-4270-938b-a67a3c39f669)
 
 ---
 
