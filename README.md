@@ -2,9 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <a href="https://www.linkedin.com/in/bernard-appiah360/" target="_blank"><img src="https://github.com/Borngod/borngod/assets/117746948/1706d411-cdaa-45ae-afe7-03fbf6cf2d06"></img> </a>
 
-Full-Stack Engineer || Solutions-Oriented with a Cybersecurity Focus
+Software Engineer || AI  & Cyber Security Specialist 
 --------------------------------------------------------------------
-I've been coding for who knows how long! :) I'm self-taught and have always been passionate about making the most of the skills I've gained. This hub showcases all my late-night coding sessions, burning the midnight oil to create code that's clean, modular, and functional. I might not be the best at answering algorithm questions—something I'm working hard to improve—but I always manage to get the job done, whether as part of a team or working solo. I'm focused on making a meaningful impact on the next generation with all my talents, software engineering being a key one. My goal is to create a community of engineers with a problem-solving and entrepreneurial mindset, spreading innovation to every corner of the world. To my future self: "You hustled to get where you are today. Never forget your roots and all your dreams, even if they seem impossible to achieve." I dabble in integrating AI into everyday solutions, building scalable backends, and creating user-friendly frontends. Don't hesitate to reach out—together, we might just build the next Tesla! :)
+I am a dedicated, self-taught software engineer with extensive hands-on experience in building scalable, user-friendly solutions. My journey in coding has been fueled by a deep passion for learning and a commitment to delivering clean, modular, and functional code. Whether working collaboratively within a team or independently, I consistently strive to overcome challenges and drive impactful results.
+
+I specialize in integrating innovative AI solutions into everyday applications, developing robust backends, and creating intuitive frontends. Although I continue to enhance my algorithmic skills, my strength lies in translating complex problems into practical, efficient solutions.
+
+My ultimate goal is to foster a community of problem-solvers and forward-thinking engineers, spreading innovation and making a lasting impact on the industry. I am always eager to connect with like-minded professionals—together, we can build transformative technology.
 
 * 🌍  I'm based in Accra, Greater Accra, Ghana
 * ✉️  You can contact me at [appiahbernard42@gmail.com](mailto:appiahbernard42@gmail.com)
