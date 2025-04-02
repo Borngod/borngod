@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <a href="https://www.linkedin.com/in/bernard-appiah360/" target="_blank"><img src="https://github.com/Borngod/borngod/assets/117746948/1706d411-cdaa-45ae-afe7-03fbf6cf2d06"></img> </a>
 
-Software Engineer || AI  & Cyber Security Specialist 
+Software Engineer | AI & Cybersecurity Specialist
+React.js | Next.js | Vue.js | Node.js | Express.js | Django
 --------------------------------------------------------------------
 I am a dedicated, self-taught software engineer with extensive hands-on experience in building scalable, user-friendly solutions. My journey in coding has been fueled by a deep passion for learning and a commitment to delivering clean, modular, and functional code. Whether working collaboratively within a team or independently, I consistently strive to overcome challenges and drive impactful results.
 
