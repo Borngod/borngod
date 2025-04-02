@@ -31,7 +31,23 @@ I've been coding for who knows how long! :) I'm self-taught and have always been
 
 ---
 
-## Projects
+# Projects
+
+### unBanked
+**March 2024 was for a Fintech Hackathon with a Team (PWA)not  desktop app**  
+
+**Description:**   
+<a href="https://unbanked.vercel.app/login"> unBanked</a> Unbanked is an AI-driven mobile wallet designed to provide financial services to Africa’s unbanked population, starting with Ghana, where 42% of adults remain without bank accounts. By leveraging mobile money transaction history across all networks—with user consent—Unbanked introduces an innovative AI-powered credit scoring system that enables fair and efficient access to loans and other financial services.
+
+The proprietary Unbanked Score™ (300–850) is generated using advanced mathematical algorithms and alternative financial data, addressing the traditional banking sector's lack of infrastructure. By eliminating the need for conventional credit history, we empower individuals with limited financial access to secure microloans and build financial stability.
+
+Unbanked bridges the financial gap by streamlining lending processes, reducing high lending fees, and offering a faster, more inclusive path to creditworthiness—revolutionizing financial access for the unbanked across Africa.
+
+**Technologies:**
+Next.js, claude AI ,Rest api, Tailwind CSS / ShadCN 
+
+![image](https://github.com/user-attachments/assets/1fa0aa6c-555f-43ec-8d28-ae637eb0b993)
+
 
 ### JobsByUs
 **Jan 2024 - Apr 2024**  
