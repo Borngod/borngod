@@ -41,7 +41,7 @@ Below are some of the projects I’ve worked on, along with descriptions, techno
 **Fintech Hackathon (March 2024)**  
 *A Progressive Web App (PWA) built for a Fintech Hackathon*
 
-**[Visit unBanked](https://unbanked.vercel.app/login)**  
+**[Visit unBanked](https://unbanked.vercel.app)**  
 **Description:**  
 Unbanked is an AI-driven mobile wallet designed to provide financial services to Africa’s unbanked population, starting with Ghana, where 42% of adults remain without bank accounts. By leveraging mobile money transaction history across all networks—with user consent—Unbanked introduces an innovative AI-powered credit scoring system that enables fair and efficient access to loans and other financial services.
 
@@ -58,6 +58,27 @@ Unbanked bridges the financial gap by streamlining lending processes, reducing h
 ![unBanked Screenshot](https://github.com/user-attachments/assets/1fa0aa6c-555f-43ec-8d28-ae637eb0b993)
 
 ---
+## AI Flashcards Generator
+**October 2024**  
+**[Visit App](https://ai-flashcard-smoky.vercel.app/flashcard)**  
+
+**Description:**  
+Welcome to the AI Flashcards Generator! This dynamic tool creates flashcards based on user text inputs or uploaded documents. By leveraging AI, it automatically extracts key points to help you study or revise faster, offering a seamless and efficient learning experience.
+
+**Features:**  
+- **AI-Powered Flashcard Generation:** Automatically generates flashcards from text inputs or uploaded documents.  
+- **Document Parsing:** Upload documents (PDF, DOCX, etc.) and have the AI extract the most relevant information.  
+- **Speech Synthesis:** Listen to flashcards being read aloud for a hands-free review experience.  
+- **User-Friendly Interface:** Simple and clean UI for easy navigation and interaction.
+
+**Technologies:**  
+- **Frontend:** Next.js for server-side rendering  
+- **AI Integration:** Gemini API for generating flashcards and text analysis  
+- **Speech Synthesis:** Built-in browser API  
+- **Document Parser:** Supports uploads (PDF, DOCX, etc.)  
+- **Other Dependencies:** Tailwind CSS and additional libraries as needed
+![image](https://github.com/user-attachments/assets/ed458198-6d31-44c3-b7d4-700719835115)
+
 
 ## JobsByUs
 **Jan 2024 - Apr 2024**  
