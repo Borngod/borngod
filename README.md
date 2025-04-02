@@ -33,83 +33,137 @@ I've been coding for who knows how long! :) I'm self-taught and have always been
 
 # Projects
 
-### unBanked
-**March 2024 was for a Fintech Hackathon with a Team (PWA)not  desktop app**  
+Below are some of the projects I’ve worked on, along with descriptions, technologies used, and screenshots.
 
-**Description:**   
-<a href="https://unbanked.vercel.app/login"> unBanked</a> Unbanked is an AI-driven mobile wallet designed to provide financial services to Africa’s unbanked population, starting with Ghana, where 42% of adults remain without bank accounts. By leveraging mobile money transaction history across all networks—with user consent—Unbanked introduces an innovative AI-powered credit scoring system that enables fair and efficient access to loans and other financial services.
+---
 
-The proprietary Unbanked Score™ (300–850) is generated using advanced mathematical algorithms and alternative financial data, addressing the traditional banking sector's lack of infrastructure. By eliminating the need for conventional credit history, we empower individuals with limited financial access to secure microloans and build financial stability.
+## unBanked
+**Fintech Hackathon (March 2024)**  
+*A Progressive Web App (PWA) built for a Fintech Hackathon*
+
+**[Visit unBanked](https://unbanked.vercel.app/login)**  
+**Description:**  
+Unbanked is an AI-driven mobile wallet designed to provide financial services to Africa’s unbanked population, starting with Ghana, where 42% of adults remain without bank accounts. By leveraging mobile money transaction history across all networks—with user consent—Unbanked introduces an innovative AI-powered credit scoring system that enables fair and efficient access to loans and other financial services.
+
+Our proprietary Unbanked Score™ (300–850) is generated using advanced mathematical algorithms and alternative financial data, addressing the traditional banking sector's lack of infrastructure. By eliminating the need for conventional credit history, we empower individuals with limited financial access to secure microloans and build financial stability.
 
 Unbanked bridges the financial gap by streamlining lending processes, reducing high lending fees, and offering a faster, more inclusive path to creditworthiness—revolutionizing financial access for the unbanked across Africa.
 
-**Technologies:**
-Next.js, claude AI ,Rest api, Tailwind CSS / ShadCN 
+**Technologies:**  
+- Next.js  
+- Tailwind CSS / ShadCN  
+- Claude AI  
+- REST API  
 
-![image](https://github.com/user-attachments/assets/1fa0aa6c-555f-43ec-8d28-ae637eb0b993)
+![unBanked Screenshot](https://github.com/user-attachments/assets/1fa0aa6c-555f-43ec-8d28-ae637eb0b993)
 
+---
 
-### JobsByUs
+## JobsByUs
 **Jan 2024 - Apr 2024**  
-**Description:**  <a href="https://jobsbyus.com/">JobsByUs</a> is an intuitive job portal that connects job seekers with diverse opportunities and enables employers to showcase their openings efficiently.  
- 
-**Technologies:**
-   React, Styled Components, Tailwind CSS, AOS (animation library), Express.js, MongoDB, DigitalOcean VPS hosting, Nginx, TinyPNG, WebP, Service Workers, Web App Manifest, Google Lighthouse, meta tags, schema markup  
-**Skills:**
- React.js, Tailwind CSS, Search Engine Optimization (SEO), WordPress, REST APIs, Progressive Web Applications (PWAs), Site Maps  
 
-![Screenshot 2024-06-15 161728](https://github.com/Borngod/borngod/assets/117746948/074ef216-f34d-4172-b80d-388bb49d34b4)
+**[Visit JobsByUs](https://jobsbyus.com/)**  
+**Description:**  
+JobsByUs is an intuitive job portal that connects job seekers with a variety of opportunities and helps employers showcase their openings efficiently.
 
- 
+**Technologies:**  
+- React  
+- Styled Components  
+- Tailwind CSS  
+- AOS (animation library)  
+- Express.js  
+- MongoDB  
+- DigitalOcean VPS hosting  
+- Nginx  
+- TinyPNG & WebP optimization  
+- Service Workers & Web App Manifest  
+- Google Lighthouse, meta tags, schema markup  
+
+**Skills:**  
+- React.js  
+- Tailwind CSS  
+- SEO  
+- WordPress  
+- REST APIs  
+- Progressive Web Applications (PWAs)  
+- Site Maps  
+
+![JobsByUs Screenshot](https://github.com/Borngod/borngod/assets/117746948/074ef216-f34d-4172-b80d-388bb49d34b4)
 
 ---
 
-### 8th Wonder
-**May 2024 - May 2024**  
-<a href="https://8thwonder.xyz">8thWonder.xyz </a>.
-Built 8thwonder  the hot chick baby face in the trading  space with a few dev team members. Additionally, created a dashboard for their bootcamps, which included an admin interface for scoring.
+## 8th Wonder
+**May 2024**  
 
-**Technologies:** Nextjs, Nodejs, Expressjs, Mongodb ,Aws, Docker, Caprover
+**[Visit 8thWonder.xyz](https://8thwonder.xyz)**  
+**Description:**  
+Developed 8thWonder—a dynamic solution in the trading space—along with a dashboard for bootcamps that includes an admin interface for scoring. This project was built in collaboration with a dedicated team.
 
-<a href="https://8thwonder.xyz">![Screenshot 2025-01-08 110023](https://github.com/user-attachments/assets/41e75467-eb5d-4dd7-ad87-4260cce4be4e)</a>
+**Technologies:**  
+- Next.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- AWS  
+- Docker  
+- Caprover  
 
-
+[![8th Wonder Screenshot](https://github.com/user-attachments/assets/41e75467-eb5d-4dd7-ad87-4260cce4be4e)](https://8thwonder.xyz)
 
 ---
 
+## Projects in Development
 
-
-
-
-## Project i worked on  but are stil in the dev environ 😶
 ### Lam Naturals
 **Jun 2024 - Present**  
-I built a digital platform for Lam Naturals, an agro company, with e-commerce functionality, allowing users to order and purchase Lam Naturals agro products directly from the platform. Additionally, I incorporated dashboards for insights on orders and funds, along with an admin section where items can be added without accessing the database.  
-**Tools:** React, TypeScript, REST API, React useContext and useReducer, Airtable, Tailwind CSS, Paystack for payment processing  
-**Skills:** React.js, TypeScript, Express.js, Node.js, Tailwind CSS, Airtable, Automation 
 
+**Description:**  
+Developing a digital platform for Lam Naturals, an agro company, which includes e-commerce functionality for direct purchases of agro products. The platform also features dashboards for monitoring orders and funds, along with an admin section that allows easy addition of items without direct database access.
 
+**Tools & Skills:**  
+- React & TypeScript  
+- REST API  
+- React useContext and useReducer  
+- Airtable  
+- Tailwind CSS  
+- Paystack (payment processing)
 
-![Screenshot 2025-01-08 142750](https://github.com/user-attachments/assets/e6d5e00e-7a6a-4270-938b-a67a3c39f669)
+![Lam Naturals Screenshot](https://github.com/user-attachments/assets/e6d5e00e-7a6a-4270-938b-a67a3c39f669)
 
 ---
 
 ### Frontend Capstone Project: Poki Viewer
-**May 2024 - May 2024**  
-Built the frontend developmentcapstone project for a  <a href="https://enyata-9e2b.vercel.app/">Poki diary</a> that includes a theme switcher, Poki stats, Poki color picker, and similar Pokis view.  
-**Skills:** styled-components, Material-UI, Tailwind CSS, Ant Design, REST APIs, SASS, SCSS, TypeScript  
+**May 2024**  
 
-![Screenshot 2024-06-15 175956](https://github.com/Borngod/borngod/assets/117746948/526cc956-ae50-41df-8a98-e2b53c8a3835)
+**[Visit Poki Diary](https://enyata-9e2b.vercel.app/)**  
+**Description:**  
+A frontend capstone project featuring a theme switcher, Poki stats, a color picker, and a similar Pokis view.  
 
+**Skills:**  
+- styled-components  
+- Material-UI  
+- Tailwind CSS  
+- Ant Design  
+- REST APIs  
+- SASS & SCSS  
+- TypeScript  
+
+![Poki Viewer Screenshot](https://github.com/Borngod/borngod/assets/117746948/526cc956-ae50-41df-8a98-e2b53c8a3835)
 
 ---
 
 ### Excel Library Attendance System
-**Jan 2022 - Jan 2022**  
-I developed an Excel-based library attendance system using VBA (Visual Basic for Applications). In this system, students visiting the library can input their details to check in, and all the information is recorded in an Excel spreadsheet. When students check out, they simply enter their index number, and the time of checkout is recorded. The librarian can conclude the attendance by entering a command to end the session. This action generates a new sheet and renames the previous sheet with the date when the session ended. I implemented various validations to ensure accurate user input.  
-**Skills:** Microsoft Excel, VBA Excel, Microsoft Excel Macros  
+**Jan 2022**  
 
-![Screenshot 2024-06-15 163247](https://github.com/Borngod/borngod/assets/117746948/d97fa3d5-28c6-4405-93fb-d8a81a2027b5)
+**Description:**  
+Developed an Excel-based library attendance system using VBA, which allows students to check in by inputting their details and automatically logs check-out times. The system includes validations for accurate data entry and a command-based session closure that archives the session with a date-specific sheet name.
+
+**Skills:**  
+- Microsoft Excel  
+- VBA  
+- Excel Macros  
+
+![Excel Attendance Screenshot](https://github.com/Borngod/borngod/assets/117746948/d97fa3d5-28c6-4405-93fb-d8a81a2027b5)
 
 
 
