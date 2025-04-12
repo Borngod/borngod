@@ -43,7 +43,7 @@ Below are some of the projects I’ve worked on, along with descriptions, techno
 ---
 
 ## unBanked
-**Fintech Hackathon (March 2024)**  
+**Fintech Hackathon (March 2024) built with a Team**  
 *A Progressive Web App (PWA) built for a Fintech Hackathon*
 
 **[Visit unBanked](https://unbanked.vercel.app)**  
