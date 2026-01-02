@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.linkedin.com/in/bernard-appiah360/" target="_blank"><img src="https://github.com/Borngod/borngod/assets/117746948/1706d411-cdaa-45ae-afe7-03fbf6cf2d06"></img> </a>
 
 Software Engineer | AI & Cybersecurity Specialist
-React.js | Next.js | Vue.js | Node.js | Express.js | Django
+React.js | Next.js | Vue.js | Node.js | Express.js | Django |Nest js
 --------------------------------------------------------------------
 I am a dedicated, self-taught software engineer with extensive hands-on experience in building scalable, user-friendly solutions. My journey in coding has been fueled by a deep passion for learning and a commitment to delivering clean, modular, and functional code. Whether working collaboratively within a team or independently, I consistently strive to overcome challenges and drive impactful results.
 
@@ -11,7 +11,7 @@ I specialize in integrating innovative AI solutions into everyday applications, 
 
 My ultimate goal is to foster a community of problem-solvers and forward-thinking engineers, spreading innovation and making a lasting impact on the industry. I am always eager to connect with like-minded professionals—together, we can build transformative technology.
 
-* 🌍  I'm based in Accra, Greater Accra, Ghana
+
 * ✉️  You can contact me at [appiahbernard42@gmail.com](mailto:appiahbernard42@gmail.com)
 * 🤝  I'm open to collaborating on AI, Web apps , PwA, Mobile Apps
 * ⚡  I code to fund another passion of mine which is .......?
@@ -126,7 +126,8 @@ JobsByUs is an intuitive job portal that connects job seekers with a variety of 
 Developed 8thWonder—a dynamic solution in the trading space—along with a dashboard for bootcamps that includes an admin interface for scoring. This project was built in collaboration with a dedicated team.
 
 **Technologies:**  
-- Next.js  
+- Next.js
+- Nest.js
 - Node.js  
 - Express.js  
 - MongoDB  
