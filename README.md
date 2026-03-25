@@ -1,196 +1,196 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ...check the left pane..😅
-======================================================================================================================================
-<a href="https://www.linkedin.com/in/bernard-appiah360/" target="_blank"><img src="https://github.com/Borngod/borngod/assets/117746948/1706d411-cdaa-45ae-afe7-03fbf6cf2d06"></img> </a>
+<div align="center">
 
-Software Engineer | AI & Cybersecurity Specialist
-React.js | Next.js | Vue.js | Node.js | Express.js | Django |Nest js
---------------------------------------------------------------------
-I am a dedicated, self-taught software engineer with extensive hands-on experience in building scalable, user-friendly solutions. My journey in coding has been fueled by a deep passion for learning and a commitment to delivering clean, modular, and functional code. Whether working collaboratively within a team or independently, I consistently strive to overcome challenges and drive impactful results.
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Bernard+Appiah;Software+Eng.+%7C+AI+Solutions+Dev." alt="Typing SVG" /></a>
 
-I specialize in integrating innovative AI solutions into everyday applications, developing robust backends, and creating intuitive frontends. Although I continue to enhance my algorithmic skills, my strength lies in translating complex problems into practical, efficient solutions.
+<br/>
 
-My ultimate goal is to foster a community of problem-solvers and forward-thinking engineers, spreading innovation and making a lasting impact on the industry. I am always eager to connect with like-minded professionals—together, we can build transformative technology.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-appiah360)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appiahbernard42@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Borngod)
 
-
-* ✉️  You can contact me at [appiahbernard42@gmail.com](mailto:appiahbernard42@gmail.com)
-* 🤝  I'm open to collaborating on AI, Web apps , PwA, Mobile Apps
-* ⚡  I code to fund another passion of mine which is .......?
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Borngod" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bernard-appiah360" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-
-
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/af59e876-0b76-47e7-bdee-cdd493b055c2)
+</div>
 
 ---
 
-# Projects
+### `> whoami`
 
-Below are some of the projects I’ve worked on, along with descriptions, technologies used, and screenshots.
+Full-Stack Engineer with **4+ years** shipping TypeScript/React/Node.js applications across **AI platforms**, **automation systems**, and **production web products**. I take products from concept to production in 4-week cycles — driving **3× lead growth**, **70% workflow automation**, and **99.5% uptime**.
+
 
 ---
 
-## unBanked
-**Fintech Hackathon (March 2024) built with a Team**  
-*A Progressive Web App (PWA) built for a Fintech Hackathon*
+### ⚡ Tech Stack
 
-**[Visit unBanked](https://unbanked.vercel.app)**  
-**Description:**  
-Unbanked is an AI-driven mobile wallet designed to provide financial services to Africa’s unbanked population, starting with Ghana, where 42% of adults remain without bank accounts. By leveraging mobile money transaction history across all networks—with user consent—Unbanked introduces an innovative AI-powered credit scoring system that enables fair and efficient access to loans and other financial services.
+<details>
+<summary><b>Languages & Core</b></summary>
+<br/>
 
-Our proprietary Unbanked Score™ (300–850) is generated using advanced mathematical algorithms and alternative financial data, addressing the traditional banking sector's lack of infrastructure. By eliminating the need for conventional credit history, we empower individuals with limited financial access to secure microloans and build financial stability.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-Unbanked bridges the financial gap by streamlining lending processes, reducing high lending fees, and offering a faster, more inclusive path to creditworthiness—revolutionizing financial access for the unbanked across Africa.
+</details>
 
-**Technologies:**  
-- Next.js  
-- Tailwind CSS / ShadCN  
-- Claude AI  
-- REST API  
+<details>
+<summary><b>Frontend</b></summary>
+<br/>
 
-![unBanked Screenshot](https://github.com/user-attachments/assets/1fa0aa6c-555f-43ec-8d28-ae637eb0b993)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
----
-## AI Flashcards Generator
-**October 2024**  
-**[Visit App](https://ai-flashcard-smoky.vercel.app/flashcard)**  
+</details>
 
-**Description:**  
-Welcome to the AI Flashcards Generator! This dynamic tool creates flashcards based on user text inputs or uploaded documents. By leveraging AI, it automatically extracts key points to help you study or revise faster, offering a seamless and efficient learning experience.
+<details>
+<summary><b>Backend & Infrastructure</b></summary>
+<br/>
 
-**Features:**  
-- **AI-Powered Flashcard Generation:** Automatically generates flashcards from text inputs or uploaded documents.  
-- **Document Parsing:** Upload documents (PDF, DOCX, etc.) and have the AI extract the most relevant information.  
-- **Speech Synthesis:** Listen to flashcards being read aloud for a hands-free review experience.  
-- **User-Friendly Interface:** Simple and clean UI for easy navigation and interaction.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**Technologies:**  
-- **Frontend:** Next.js for server-side rendering  
-- **AI Integration:** Gemini API for generating flashcards and text analysis  
-- **Speech Synthesis:** Built-in browser API  
-- **Document Parser:** Supports uploads (PDF, DOCX, etc.)  
-- **Other Dependencies:** Tailwind CSS and additional libraries as needed
-![image](https://github.com/user-attachments/assets/ed458198-6d31-44c3-b7d4-700719835115)
+</details>
 
+<details>
+<summary><b>Databases & Cloud</b></summary>
+<br/>
 
-## JobsByUs
-**Jan 2024 - Apr 2024**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**[Visit JobsByUs](https://jobsbyus.com/)**  
-**Description:**  
-JobsByUs is an intuitive job portal that connects job seekers with a variety of opportunities and helps employers showcase their openings efficiently.
+</details>
 
-**Technologies:**  
-- React  
-- Styled Components  
-- Tailwind CSS  
-- AOS (animation library)  
-- Express.js  
-- MongoDB  
-- DigitalOcean VPS hosting  
-- Nginx  
-- TinyPNG & WebP optimization  
-- Service Workers & Web App Manifest  
-- Google Lighthouse, meta tags, schema markup  
+<details>
+<summary><b>AI & Integrations</b></summary>
+<br/>
 
-**Skills:**  
-- React.js  
-- Tailwind CSS  
-- SEO  
-- WordPress  
-- REST APIs  
-- Progressive Web Applications (PWAs)  
-- Site Maps  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-![JobsByUs Screenshot](https://github.com/Borngod/borngod/assets/117746948/074ef216-f34d-4172-b80d-388bb49d34b4)
+`LLM Integration` · `RAG Pipelines` · `Vector Databases` · `AI Content Generation`
 
----
-
-## 8th Wonder
-**May 2024**  
-
-**[Visit 8thWonder.xyz](https://8thwonder.xyz)**  
-**Description:**  
-Developed 8thWonder—a dynamic solution in the trading space—along with a dashboard for bootcamps that includes an admin interface for scoring. This project was built in collaboration with a dedicated team.
-
-**Technologies:**  
-- Next.js
-- Nest.js
-- Node.js  
-- Express.js  
-- MongoDB  
-- AWS  
-- Docker  
-- Caprover  
-
-[![8th Wonder Screenshot](https://github.com/user-attachments/assets/41e75467-eb5d-4dd7-ad87-4260cce4be4e)](https://8thwonder.xyz)
+</details>
 
 ---
 
-## Projects in Development
+### 🏗️ Featured Work
 
-### Lam Naturals
-**Jun 2024 - Present**  
+<table>
+<tr>
+<td width="50%">
 
-**Description:**  
-Developing a digital platform for Lam Naturals, an agro company, which includes e-commerce functionality for direct purchases of agro products. The platform also features dashboards for monitoring orders and funds, along with an admin section that allows easy addition of items without direct database access.
+#### 🤖 AI Course Authoring Platform
+*Code Raccoon — 2025*
 
-**Tools & Skills:**  
-- React & TypeScript  
-- REST API  
-- React useContext and useReducer  
-- Airtable  
-- Tailwind CSS  
-- Paystack (payment processing)
+Built an AI-powered course authoring tool (Next.js + Nest.js + RabbitMQ) enabling users to generate entire courses through AI — from content structuring to publishing.
 
-![Lam Naturals Screenshot](https://github.com/user-attachments/assets/e6d5e00e-7a6a-4270-938b-a67a3c39f669)
+`Next.js` `NestJS` `RabbitMQ` `TypeScript` `AI APIs`
+
+</td>
+<td width="50%">
+
+#### 📊 AI Lead Generation System
+*Bridge Labs — 2025*
+
+Automated prospecting & qualification pipelines with LLM-driven data processing and CRM integration. Reduced manual workflows by **70%** across **10K+ lead records**.
+
+`TypeScript` `React` `NestJS` `Zoho CRM` `Web Scraping`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏦 unBanked — Fintech PWA
+*Hackathon Winner — 2024*
+
+AI-driven mobile wallet for Africa's unbanked population. Proprietary credit scoring (300–850) using mobile money transaction history.
+
+[**Live →**](https://unbanked.vercel.app) · `Next.js` `Claude AI` `Tailwind` `ShadCN`
+
+</td>
+<td width="50%">
+
+#### 🎴 AI Flashcard SaaS
+*2024*
+
+SaaS with AI-powered flashcard generation from text/documents, PostgreSQL/Prisma backend, and Stripe subscription billing with webhook automation.
+
+[**Live →**](https://ai-flashcard-smoky.vercel.app/flashcard) · `Next.js` `Gemini API` `Prisma` `Stripe`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💼 JobsByUs — Job Portal
+*Brics Africa — 2024*
+
+Production job portal serving real users. Led end-to-end development, optimized PostgreSQL queries by **40%**, cut infra costs by **30%**.
+
+[**Live →**](https://jobsbyus.com/) · `React` `Node.js` `PostgreSQL` `Nginx`
+
+</td>
+<td width="50%">
+
+#### 📈 8th Wonder — Fintech
+*Co-Founder & CTO — 2024*
+
+Co-founded fintech platform for democratizing financial markets. Built team, defined tech vision, shipped scalable architecture.
+
+[**Live →**](https://8thwonder.xyz) · `Next.js` `NestJS` `MongoDB` `AWS` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Frontend Capstone Project: Poki Viewer
-**May 2024**  
+### 📈 GitHub Stats
 
-**[Visit Poki Diary](https://enyata-9e2b.vercel.app/)**  
-**Description:**  
-A frontend capstone project featuring a theme switcher, Poki stats, a color picker, and a similar Pokis view.  
+<div align="center">
 
-**Skills:**  
-- styled-components  
-- Material-UI  
-- Tailwind CSS  
-- Ant Design  
-- REST APIs  
-- SASS & SCSS  
-- TypeScript  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Borngod&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borngod&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
 
-![Poki Viewer Screenshot](https://github.com/Borngod/borngod/assets/117746948/526cc956-ae50-41df-8a98-e2b53c8a3835)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Borngod&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
+</div>
 
 ---
 
-### Excel Library Attendance System
-**Jan 2022**  
+<div align="center">
 
-**Description:**  
-Developed an Excel-based library attendance system using VBA, which allows students to check in by inputting their details and automatically logs check-out times. The system includes validations for accurate data entry and a command-based session closure that archives the session with a date-specific sheet name.
+<img src="https://komarev.com/ghpvc/?username=Borngod&style=flat-square&color=58A6FF" alt="Profile views" />
 
-**Skills:**  
-- Microsoft Excel  
-- VBA  
-- Excel Macros  
+**If you find my work interesting, let's connect and build something impactful together.**
 
-![Excel Attendance Screenshot](https://github.com/Borngod/borngod/assets/117746948/d97fa3d5-28c6-4405-93fb-d8a81a2027b5)
-
-
-
+</div>
