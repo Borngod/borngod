@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Bernard+Appiah;Software+Eng.+%7C+AI+Solutions+Dev." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Bernard+Appiah;Full-Stack+Engineer+%7C+AI+Products" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,8 +15,9 @@
 
 ### `> whoami`
 
-Full-Stack Engineer with **4+ years** shipping TypeScript/React/Node.js applications across **AI platforms**, **automation systems**, and **production web products**. I take products from concept to production in 4-week cycles — driving **3× lead growth**, **70% workflow automation**, and **99.5% uptime**.
+Full-stack engineer based in Accra, building AI-powered products with TypeScript, React, and Node.js. Three years in, with a recent focus on shipping AI features that hold up in production — RAG pipelines, LLM deployments with content guardrails, and async job systems on RabbitMQ.
 
+I learn by building. Currently picking up Unity on the side because game development has been on my list for a while.
 
 ---
 
@@ -73,10 +74,12 @@ Full-Stack Engineer with **4+ years** shipping TypeScript/React/Node.js applicat
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -91,7 +94,7 @@ Full-Stack Engineer with **4+ years** shipping TypeScript/React/Node.js applicat
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-`LLM Integration` · `RAG Pipelines` · `Vector Databases` · `AI Content Generation`
+`Azure AI Foundry` · `LLM Integration` · `RAG Pipelines` · `Vector Databases` · `Content Safety Guardrails`
 
 </details>
 
@@ -106,41 +109,41 @@ Full-Stack Engineer with **4+ years** shipping TypeScript/React/Node.js applicat
 #### 🤖 AI Course Authoring Platform
 *Code Raccoon — 2025*
 
-Built an AI-powered course authoring tool (Next.js + Nest.js + RabbitMQ) enabling users to generate entire courses through AI — from content structuring to publishing.
+Built an AI-powered course authoring tool with Next.js + Nest.js. Designed the content pipeline, persistence model, and publishing flow. Async generation runs through RabbitMQ with retries and dead-letter handling, since LLM + image generation work is too slow for synchronous requests.
 
-`Next.js` `NestJS` `RabbitMQ` `TypeScript` `AI APIs`
+`Next.js` `NestJS` `RabbitMQ` `MariaDB` `Redis` `Azure AI Foundry`
 
 </td>
 <td width="50%">
 
-#### 📊 AI Lead Generation System
-*Bridge Labs — 2025*
+#### 🔐 LLM Deployment Infrastructure
+*Code Raccoon — 2025*
 
-Automated prospecting & qualification pipelines with LLM-driven data processing and CRM integration. Reduced manual workflows by **70%** across **10K+ lead records**.
+Configured production LLM deployments on Azure AI Foundry with EU region-pinned endpoints for GDPR compliance. Layered Azure's built-in content filters with custom prompt-level guardrails for domain-specific abuse cases.
 
-`TypeScript` `React` `NestJS` `Zoho CRM` `Web Scraping`
+`Azure AI Foundry` `GDPR` `Content Safety` `LLM Ops`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🏦 unBanked — Fintech PWA
-*Hackathon Winner — 2024*
+#### 📊 AI Lead Generation System
+*Bridge Labs — 2025*
 
-AI-driven mobile wallet for Africa's unbanked population. Proprietary credit scoring (300–850) using mobile money transaction history.
+Shipped MVP from zero to production in ~4 weeks. Built the prospecting pipeline: web scraping, LLM-based qualification and enrichment, and CRM write-back — replacing a manual research workflow that used to take a team most of a day.
 
-[**Live →**](https://unbanked.vercel.app) · `Next.js` `Claude AI` `Tailwind` `ShadCN`
+`TypeScript` `NestJS` `React` `Zoho CRM` `OpenAI`
 
 </td>
 <td width="50%">
 
-#### 🎴 AI Flashcard SaaS
+#### 🏦 unBanked — Fintech PWA
 *2024*
 
-SaaS with AI-powered flashcard generation from text/documents, PostgreSQL/Prisma backend, and Stripe subscription billing with webhook automation.
+AI-driven mobile wallet concept for Africa's unbanked population. Proprietary credit scoring (300–850) using mobile money transaction history.
 
-[**Live →**](https://ai-flashcard-smoky.vercel.app/flashcard) · `Next.js` `Gemini API` `Prisma` `Stripe`
+[**Live →**](https://unbanked.vercel.app) · `Next.js` `Claude AI` `Tailwind` `ShadCN`
 
 </td>
 </tr>
@@ -150,19 +153,41 @@ SaaS with AI-powered flashcard generation from text/documents, PostgreSQL/Prisma
 #### 💼 JobsByUs — Job Portal
 *Brics Africa — 2024*
 
-Production job portal serving real users. Led end-to-end development, optimized PostgreSQL queries by **40%**, cut infra costs by **30%**.
+Production job portal serving real users. Lead developer end-to-end on a React + Node.js + PostgreSQL stack. Tuned the schema and added indexes on the hottest queries; owned production deploys, caching, and incident response post-launch.
 
-[**Live →**](https://jobsbyus.com/) · `React` `Node.js` `PostgreSQL` `Nginx`
+[**Live →**](https://jobsbyus.com/) · `React` `Node.js` `PostgreSQL` `Redis` `Nginx`
 
 </td>
 <td width="50%">
 
-#### 📈 8th Wonder — Fintech
+#### 🎴 AI Flashcard SaaS
+*2024*
+
+SaaS product with AI-generated flashcards from text and documents. PostgreSQL + Prisma backend, Stripe Checkout with webhook-driven entitlement logic on the server.
+
+[**Live →**](https://ai-flashcard-smoky.vercel.app/flashcard) · `Next.js` `Gemini API` `Prisma` `Stripe`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 📈 8th Wonder — Fintech (wound down)
 *Co-Founder & CTO — 2024*
 
-Co-founded fintech platform for democratizing financial markets. Built team, defined tech vision, shipped scalable architecture.
+Co-founded an early-stage fintech aimed at retail access to financial markets. Led tech decisions, built a small team, and shipped the initial web product before the company wound down.
 
-[**Live →**](https://8thwonder.xyz) · `Next.js` `NestJS` `MongoDB` `AWS` `Docker`
+[**Site →**](https://8thwonder.xyz) · `Next.js` `NestJS` `MongoDB` `AWS`
+
+</td>
+<td width="50%">
+
+#### 🤝 RAG Support Agent
+*Side Project — 2024*
+
+Custom retrieval-augmented generation pipeline. Ingests source docs, embeds with OpenAI, retrieves from Pinecone, and answers with citations back to source.
+
+`Next.js` `OpenAI` `Pinecone` `Firebase`
 
 </td>
 </tr>
@@ -191,6 +216,7 @@ Co-founded fintech platform for democratizing financial markets. Built team, def
 
 <img src="https://komarev.com/ghpvc/?username=Borngod&style=flat-square&color=58A6FF" alt="Profile views" />
 
-**If you find my work interesting, let's connect and build something impactful together.**
+**Open to full-stack and AI engineering roles, especially remote.**
+**Happy to talk shop on RAG, LLM ops, or anything backend.**
 
 </div>
